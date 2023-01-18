@@ -19,7 +19,7 @@ const About = () => (
 
       <m.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
-        className="mt-2 sm:text-[1.875rem] text-[1.25rem] text-center text-secondary-white max-w-[1000px] leading-[1.8]"
+        className="mt-2 sm:text-[1.875rem] text-[1.2rem] lg:text-center text-start text-secondary-white max-w-[1000px] lg:leading-[1.8] leading-[1.4]"
       >
         <span className="font-bold text-white">Metaverse</span> is a new thing in the future, where you can enjoy the
         virtual world by feeling like it's really real, you can feel what you feel in this metaverse world, because this
