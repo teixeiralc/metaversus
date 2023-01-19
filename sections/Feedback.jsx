@@ -20,7 +20,7 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div className="z-10">
           <h4 className="font-bold sm:text-3xl text-2xl text-white">Samantha</h4>
-          <p className="mt-2 sm:text-lg text-xs text-secondary-white">Founder Metaverus</p>
+          <p className="mt-2 sm:text-lg text-xs text-secondary-white">Founder | Metaverus</p>
         </div>
         <p className="mt-6 sm:text-[1.25rem] text-[1.125rem] text-white z-10 leading-[1.8]">
           “With the development of today's technology, metaverse is very useful for today's work, or can be called web
